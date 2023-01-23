@@ -1,0 +1,8 @@
+.list-container {
+  display: flex;
+  margin: 15px;
+  width: 100%;
+}
+.logo {
+  margin-right: 10px;
+}
